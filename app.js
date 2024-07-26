@@ -1,4 +1,4 @@
-//que pasa si es jugador contra jugador... pendiente
+//que pasa si es jugador contra jugador... lloro
 
 const rock = 1
 const paper = 2
